@@ -1,0 +1,20 @@
+{
+  "name": "new_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "prod": "parcel build index.html thanks.html order.php phone.php"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "locomotive-scroll": "^4.1.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.11",
+    "postcss": "^8.3.6"
+  }
+}
